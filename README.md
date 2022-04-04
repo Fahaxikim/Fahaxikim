@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fahaxikim.
+- 👋 Hi, I’m new here @Fahaxikim.
 - 👀 I’m interested in eating.
 - 🌱 I’m currently learning Cocos Engineering.
 - 💞️ I’m looking to collaborate on learning.
