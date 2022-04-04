@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Fahaxikim
-- 👀 I’m interested in eating
-- 🌱 I’m currently learning Cocos Engineering
-- 💞️ I’m looking to collaborate on learning
+- 👋 Hi, I’m @Fahaxikim.
+- 👀 I’m interested in eating.
+- 🌱 I’m currently learning Cocos Engineering.
+- 💞️ I’m looking to collaborate on learning.
 - 📫 How to reach me ...
 
 <!---
